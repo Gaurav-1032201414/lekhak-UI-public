@@ -1,0 +1,118 @@
+.group-icon1 {
+  width: 2.613rem;
+  height: 1.931rem;
+  position: relative;
+  object-fit: contain;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.i-especially-love {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.02em;
+  z-index: 1;
+}
+.list-creator-icon {
+  height: 5.063rem;
+  width: 5.063rem;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  min-height: 5.063rem;
+  z-index: 1;
+}
+.frame-child15 {
+  width: 0.063rem;
+  flex: 1;
+  position: relative;
+  border-right: 1px solid #fff;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.image-manager-inner {
+  height: 4.938rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 0.063rem;
+  box-sizing: border-box;
+}
+.freelancer,
+.marvin-mckinney {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.marvin-mckinney {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+  z-index: 2;
+}
+.freelancer {
+  font-size: 1rem;
+  color: #aaa;
+  display: inline-block;
+  min-width: 5.125rem;
+  z-index: 1;
+}
+.image-manager-child,
+.marvin-mckinney-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-manager-child {
+  justify-content: flex-end;
+  padding: 0 0 0.75rem;
+}
+.image-manager {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 1.656rem;
+  max-width: 100%;
+  font-size: 1.625rem;
+  color: #fff;
+  font-family: "General Sans";
+}
+.shape-container {
+  align-self: stretch;
+  gap: 1.375rem;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.frame-wrapper3,
+.group-parent,
+.shape-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.group-parent {
+  align-self: stretch;
+  gap: 1.819rem;
+}
+.frame-wrapper3 {
+  width: 28.063rem;
+  padding: 2.125rem 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 1rem;
+  color: #aaa;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .marvin-mckinney {
+    font-size: 1.313rem;
+  }
+  .image-manager {
+    flex-wrap: wrap;
+  }
+}

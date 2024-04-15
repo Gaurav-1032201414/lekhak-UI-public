@@ -1,0 +1,115 @@
+.frame-childPricing {
+    width: 23.563rem;
+    height: 48.625rem;
+    position: relative;
+    border-radius: 30px;
+    background-color: #0e1117;
+    display: none;
+    max-width: 100%;
+}
+
+.advanced-featuresPricing {
+    margin: 0;
+}
+
+.ai-pro-searchPricing,
+.ai-reading-assistantPricing,
+.ai-writing-assistantPricing,
+.no-request-limitsPricing,
+.other-benefitsPricing,
+.real-time-web-accessPricing,
+.x-faster-response-speedPricing {
+    margin-bottom: false;
+}
+
+.ai-reading-assistant-real-timePricing {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 1.357rem;
+}
+
+.advanced-features-ai-containerPricing {
+    align-self: stretch;
+    height: 24.438rem;
+    position: relative;
+    line-height: 2.375rem;
+    font-weight: 500;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 6;
+}
+
+.add-to-chromePricing {
+    width: 9.938rem;
+    position: relative;
+    font-size: 1rem;
+    line-height: 2.625rem;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #00dbde;
+    text-align: center;
+    display: inline-block;
+}
+
+.component-3Pricing,
+.component-3-wrapperPricing,
+.rectangle-parentPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.component-3Pricing {
+    cursor: pointer;
+    border: 1px solid #00dbde;
+    padding: 0.563rem 3.375rem;
+    background-color: transparent;
+    border-radius: 45px;
+    white-space: nowrap;
+    z-index: 2;
+}
+
+.component-3:hoverPricing {
+    background-color: rgba(0, 168, 171, 0.09);
+    border: 1px solid #00a8ab;
+    box-sizing: border-box;
+}
+
+.component-3-wrapperPricing,
+.rectangle-parentPricing {
+    padding: 0 0.063rem;
+}
+
+.rectangle-parentPricing {
+    width: 21.563rem;
+    border-radius: 30px;
+    background-color: #0e1117;
+    flex-shrink: 0;
+    flex-direction: column;
+    padding: 13.625rem 3.313rem 3.063rem;
+    box-sizing: border-box;
+    gap: 3.75rem;
+    z-index: 1;
+    text-align: left;
+    font-size: 0.875rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+@media screen and (max-width: 825px) {
+    .rectangle-parentPricing {
+        padding-top: 8.875rem;
+        padding-bottom: 2rem;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .rectangle-parentPricing {
+        padding-top: 5.75rem;
+        padding-bottom: 1.313rem;
+        box-sizing: border-box;
+    }
+}

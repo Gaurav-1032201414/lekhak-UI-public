@@ -1,24 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Home from './pages/Home';
+import Loading from './pages/Loading';
+import Assistant from './pages/LekhakAssistant';
+import Rewards from './pages/Rewards';
+import Pricing from './pages/Pricing';
+import Signup from './pages/SignUp';
+// import Login from './pages/Login';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Router>
+        <Routes>
+          <Route path="/signup" element={<Signup />} /> 
+          {/* <Route path="/login" element={<Login />} /> */}
+          <Route path="/" element={<Home />} />
+          <Route path="/assistant" element={<Assistant />} />
+          <Route path="/rewards" element={<Rewards />} />
+          <Route path="/pricing" element={<Pricing />} />
+          <Route path="*" element={<Loading />} />
+        </Routes>
+      </Router>
+    </>
   );
 }
 

@@ -1,0 +1,132 @@
+.div {
+  width: 7.875rem;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 7.875rem;
+  z-index: 1;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 4.75rem 0 4.813rem;
+}
+
+.sorry-page-could {
+  align-self: stretch;
+  position: relative;
+  font-size: 1.25rem;
+  font-weight: 500;
+  z-index: 1;
+  margin-top: -1.125rem;
+}
+
+.frame-group {
+  width: 17.438rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+
+.group-icon1 {
+  position: absolute;
+  top: -2.562rem;
+  rotate: 90deg;
+  left: -12rem;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.group-icon2 {
+  position: absolute;
+  top: 25.125rem;
+  left: 49rem;
+  width: 15.119rem;
+  height: 15.131rem;
+  z-index: 3;
+}
+
+.group-parent-error {
+  width: 100%;
+  height: 68.063rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: -3.187rem;
+  left: 0;
+}
+
+.go-back-to {
+  width: 8.688rem;
+  position: relative;
+  font-size: 1rem;
+  line-height: 2.625rem;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+
+.error-message,
+.go-back-button,
+.home-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.home-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0.625rem 2.5rem;
+  background-color: transparent;
+  border-radius: 45px;
+  background: linear-gradient(83.8deg, #00dbde, #fc00ff);
+  white-space: nowrap;
+  z-index: 3;
+}
+
+.error-message,
+.go-back-button {
+  padding: 0 1.875rem;
+}
+
+.error-message {
+  position: absolute;
+  top: 0;
+  left: 3.438rem;
+  width: 70.319rem;
+  flex-direction: column;
+  align-items: center;
+  padding: 11rem 1.25rem 13.688rem 44.125rem;
+  box-sizing: border-box;
+  gap: 29.063rem;
+  max-width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  color: #fff;
+  font-family: Poppins;
+}
+
+@media screen and (max-width: 767px) {
+  .div {
+    font-size: 3.188rem;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .div {
+    font-size: 2.375rem;
+  }
+
+  .sorry-page-could {
+    font-size: 1rem;
+  }
+}

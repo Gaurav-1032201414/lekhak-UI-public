@@ -1,0 +1,392 @@
+.chatgptPricing,
+.featuresPricing,
+.lekhak1Pricing {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 5.563rem;
+}
+
+.chatgptPricing,
+.lekhak1Pricing {
+    min-width: 4.5rem;
+}
+
+.chatgptPricing {
+    min-width: 5.313rem;
+}
+
+.features-parentPricing,
+.lekhak-groupPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6.438rem;
+}
+
+.features-parentPricing {
+    align-self: stretch;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.chatPricing {
+    margin: 0;
+    font-weight: 600;
+    color: #fff;
+}
+
+.all-in-onePricing,
+.quick-actionPricing,
+.web-accessPricing {
+    margin: 0;
+    font-weight: 500;
+}
+
+.readingPricing {
+    margin: 0;
+    font-weight: 600;
+    color: #fff;
+}
+
+.image-readingPricing,
+.searchPricing,
+.webpage-pdfPricing {
+    margin: 0;
+    font-weight: 500;
+}
+
+.searchPricing {
+    font-weight: 600;
+    color: #fff;
+}
+
+.search-agentPricing,
+.search-enhancePricing,
+.writePricing {
+    margin: 0;
+    font-weight: 500;
+}
+
+.writePricing {
+    font-weight: 600;
+    color: #fff;
+}
+
+.writing-agentPricing {
+    margin: 0;
+    font-weight: 500;
+}
+
+.chat-all-in-containerPricing {
+    position: relative;
+    line-height: 2.938rem;
+}
+
+.tick-1-iconPricing,
+.tick-1-icon1Pricing {
+    width: 1.875rem;
+    height: 1.875rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.tick-1-parentPricing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.563rem;
+}
+
+.cross-svgrepo-com-1-iconPricing {
+    height: 0.875rem;
+    width: 0.813rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.chat-assistant-app-worksPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0.5rem 2.5rem 0.563rem;
+}
+
+.tick-1-icon2Pricing,
+.tick-1-icon3Pricing {
+    width: 1.875rem;
+    height: 1.875rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.tick-1-groupPricing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 1.188rem;
+    gap: 1.313rem;
+}
+
+.tick-1-icon4Pricing,
+.tick-1-icon5Pricing {
+    width: 1.875rem;
+    height: 1.875rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.tick-1-containerPricing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 2.125rem;
+    gap: 1.063rem;
+}
+
+.tick-1-icon6Pricing {
+    width: 1.875rem;
+    height: 1.875rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.frame-parent4Pricing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 2.125rem;
+}
+
+.cross-svgrepo-com-1-icon1Pricing,
+.cross-svgrepo-com-1-icon2Pricing {
+    position: absolute;
+    left: 0;
+    width: 0.813rem;
+    height: 0.875rem;
+    overflow: hidden;
+}
+
+.cross-svgrepo-com-1-icon1Pricing {
+    top: 0;
+}
+
+.cross-svgrepo-com-1-icon2Pricing {
+    top: 2.438rem;
+}
+
+.cross-svgrepo-com-1-parentPricing {
+    height: 3.313rem;
+    width: 0.813rem;
+    position: relative;
+}
+
+.privacy-policy-our-teamPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0.5rem 0 0.563rem;
+}
+
+.tick-1-icon7Pricing {
+    height: 1.875rem;
+    width: 1.875rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.embrace-incPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 2.5rem;
+}
+
+.cross-svgrepo-com-1-icon3Pricing,
+.cross-svgrepo-com-1-icon4Pricing {
+    width: 0.813rem;
+    height: 0.875rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.cross-svgrepo-com-1-groupPricing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2.313rem;
+}
+
+.privacy-policy-our-team1Pricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0.5rem 2.188rem 0.563rem;
+}
+
+.cross-svgrepo-com-1-icon5Pricing,
+.cross-svgrepo-com-1-icon6Pricing {
+    width: 0.813rem;
+    height: 0.875rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.cross-svgrepo-com-1-containerPricing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2.063rem;
+}
+
+.privacy-policy-our-team2Pricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0.5rem 3.125rem 0.563rem;
+}
+
+.cross-svgrepo-com-1-icon7Pricing {
+    height: 0.875rem;
+    width: 0.813rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.cross-svgrepo-com-1-wrapperPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0.5rem 0 0.563rem;
+}
+
+.support-and-contact-usPricing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 2.125rem;
+}
+
+.frequently-asked-questionsPricing {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0.5rem 0 0;
+}
+
+.frame-parent3Pricing,
+.frame-wrapper4Pricing,
+.frequently-asked-questionsPricing {
+    display: flex;
+    align-items: flex-start;
+}
+
+.frame-parent3Pricing {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.frame-wrapper4Pricing {
+    width: 13.188rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 3.375rem 0 0;
+    box-sizing: border-box;
+}
+
+.chat-all-in-one-al-chatbot-web-parentPricing {
+    width: 75.063rem;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+    font-size: 1rem;
+    color: #aaa;
+}
+
+.chat-all-in-one-al-chatbot-web-parentPricing,
+.frame-parent2Pricing,
+.frame-wrapper3Pricing {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+}
+
+.frame-parent2Pricing {
+    width: 76.813rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 2.063rem;
+}
+
+.frame-wrapper3Pricing {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 1.688rem 6.563rem 1.25rem;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 1.25rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+@media screen and (max-width: 825px) {
+    .frame-wrapper4Pricing {
+        padding-top: 2.188rem;
+        box-sizing: border-box;
+    }
+
+    .chat-all-in-one-al-chatbot-web-parentPricing {
+        flex-wrap: wrap;
+    }
+
+    .frame-parent2Pricing {
+        gap: 1rem;
+    }
+
+    .frame-wrapper3Pricing {
+        padding-bottom: 4.25rem;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 450px) {
+
+    .chatgptPricing,
+    .featuresPricing,
+    .lekhak1Pricing {
+        font-size: 1rem;
+    }
+
+    .lekhak-groupPricing {
+        gap: 3.188rem;
+    }
+
+    .features-parentPricing {
+        flex-wrap: wrap;
+    }
+}

@@ -1,0 +1,588 @@
+.chrome-iconSignUp {
+    position: absolute;
+    top: 30.75rem;
+    left: 53.375rem;
+    width: 1.75rem;
+    height: 1.75rem;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.wrapper-group-2985-childSignUp {
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: scale(2.173);
+}
+
+.wrapper-group-2985SignUp {
+    position: absolute;
+    top: 6rem;
+    left: -1.187rem;
+    width: 122.375rem;
+    height: 31.063rem;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame-parentSignUp {
+    height: 43rem;
+    width: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: calc(50% - 344px);
+    right: 0;
+    left: 0;
+    max-width: 100%;
+}
+
+.assistantSignUp,
+.homeSignUp {
+    width: 3rem;
+    position: relative;
+    line-height: 2.625rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3rem;
+}
+
+.assistantSignUp {
+    width: 4.688rem;
+    min-width: 4.688rem;
+}
+
+.frame-childSignUp {
+    height: 3.75rem;
+    width: 9.75rem;
+    position: relative;
+    border-radius: 44px;
+    background: linear-gradient(261.76deg, #fc00ff, #00dbde);
+    display: none;
+}
+
+.sign-upSignUp {
+    width: 3.875rem;
+    position: relative;
+    font-size: 1rem;
+    line-height: 2.625rem;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    min-width: 3.875rem;
+    z-index: 1;
+}
+
+.lekhakSignUp,
+.log-inSignUp,
+.rectangle-parentSignUp {
+    position: absolute;
+    white-space: nowrap;
+}
+
+.rectangle-parentSignUp {
+    cursor: pointer;
+    border: 0;
+    padding: 0.563rem 2.938rem;
+    background-color: transparent;
+    top: 0;
+    left: 98rem;
+    border-radius: 44px;
+    background: linear-gradient(261.76deg, #fc00ff, #00dbde);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.lekhakSignUp,
+.log-inSignUp {
+    line-height: 2.625rem;
+}
+
+.log-inSignUp {
+    top: 0.563rem;
+    left: 93.313rem;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 3rem;
+}
+
+.lekhakSignUp {
+    margin: 0;
+    top: 1.125rem;
+    left: 0;
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: "Katahdin Round";
+    color: #00dbde;
+}
+
+.frame-containerSignUp {
+    height: 3.75rem;
+    width: 107.75rem;
+    position: absolute;
+    margin: 0 !important;
+    top: -1.312rem;
+    right: -57.687rem;
+    text-align: center;
+    font-size: 1rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+.assistant-parentSignUp {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+}
+
+.writerSignUp {
+    align-self: stretch;
+    height: 2.438rem;
+    position: relative;
+    line-height: 2.625rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3.063rem;
+}
+
+.frame-itemSignUp {
+    height: 0.188rem;
+    width: 1.375rem;
+    position: relative;
+}
+
+.frame-divSignUp,
+.vector-wrapperSignUp,
+.writer-parentSignUp {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.vector-wrapperSignUp {
+    flex-direction: row;
+    padding: 0 0.188rem;
+    margin-top: -0.325rem;
+}
+
+.frame-divSignUp,
+.writer-parentSignUp {
+    flex-direction: column;
+}
+
+.writer-parentSignUp {
+    align-self: stretch;
+    flex: 1;
+}
+
+.frame-divSignUp {
+    height: 2.513rem;
+    width: 3.063rem;
+    padding: 0.106rem 0 0;
+    box-sizing: border-box;
+    color: #00dbde;
+}
+
+.pricingSignUp,
+.rewardSignUp {
+    width: 3.875rem;
+    position: relative;
+    line-height: 2.625rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3.875rem;
+}
+
+.pricingSignUp {
+    width: 3.438rem;
+    min-width: 3.438rem;
+}
+
+.frame-wrapperSignUp,
+.home-parentSignUp {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+}
+
+.home-parentSignUp {
+    flex: 1;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.frame-wrapperSignUp {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 1.813rem 0 1.75rem;
+    box-sizing: border-box;
+}
+
+.already-have-anSignUp {
+    color: #aaa;
+}
+
+.log-in1SignUp {
+    color: #00dbde;
+}
+
+.already-have-an-containerSignUp {
+    position: relative;
+    font-size: 0.875rem;
+    font-weight: 500;
+    font-family: Poppins;
+    text-align: left;
+    z-index: 1;
+}
+
+.already-have-an-account-log-i-wrapperSignUp {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 1.25rem 0 1.313rem;
+}
+
+.frame-innerSignUp {
+    height: 3.75rem;
+    width: 31.063rem;
+    position: relative;
+    border-radius: 80px;
+    border: 1px solid #777;
+    box-sizing: border-box;
+    display: none;
+    max-width: 100%;
+}
+
+.usernameSignUp {
+    width: 5.25rem;
+    border: 0;
+    outline: 0;
+    font-weight: 500;
+    font-family: Poppins;
+    font-size: 1rem;
+    background-color: transparent;
+    height: 1.5rem;
+    position: relative;
+    text-transform: capitalize;
+    color: #777;
+    text-align: left;
+    display: inline-block;
+    padding: 0;
+    z-index: 5;
+}
+
+.rectangle-groupSignUp {
+    flex: 1;
+    border-radius: 80px;
+    border: 1px solid #777;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.125rem 2rem;
+    z-index: 4;
+}
+
+.frame-wrapper1SignUp,
+.rectangle-divSignUp,
+.rectangle-groupSignUp {
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.frame-wrapper1SignUp {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0.125rem 0 0.188rem;
+}
+
+.rectangle-divSignUp {
+    height: 3.75rem;
+    width: 31.063rem;
+    position: relative;
+    border-radius: 80px;
+    border: 1px solid #777;
+    display: none;
+}
+
+.passwordSignUp {
+    width: 4.875rem;
+    border: 0;
+    outline: 0;
+    font-weight: 500;
+    font-family: Poppins;
+    font-size: 1rem;
+    background-color: transparent;
+    height: 1.5rem;
+    position: relative;
+    text-transform: capitalize;
+    color: #777;
+    text-align: left;
+    display: inline-block;
+    padding: 0;
+    z-index: 5;
+}
+
+.frame-wrapper2SignUp,
+.rectangle-containerSignUp {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.rectangle-containerSignUp {
+    flex: 1;
+    border-radius: 80px;
+    border: 1px solid #777;
+    justify-content: flex-start;
+    padding: 1.125rem 2rem;
+    z-index: 4;
+}
+
+.frame-wrapper2SignUp {
+    align-self: stretch;
+    justify-content: flex-end;
+    padding: 0 0.125rem 0 0.188rem;
+}
+
+.add-to-chromeSignUp {
+    width: 3.875rem;
+    position: relative;
+    font-size: 1rem;
+    line-height: 2.625rem;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    min-width: 3.875rem;
+    white-space: nowrap;
+}
+
+.component-3SignUp {
+    cursor: pointer;
+    border: 0;
+    padding: 0.688rem 1.25rem;
+    background-color: transparent;
+    align-self: stretch;
+    border-radius: 45px;
+    background: linear-gradient(85.69deg, #00dbde, #fc00ff);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    z-index: 1;
+}
+
+.frame-parent1SignUp,
+.frame-parent2SignUp {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 1.188rem;
+    max-width: 100%;
+}
+
+.frame-parent1SignUp {
+    align-items: flex-start;
+    gap: 1.688rem;
+}
+
+.line-divSignUp {
+    align-self: stretch;
+    height: 0.063rem;
+    position: relative;
+    border-top: 1px solid #777;
+    box-sizing: border-box;
+    z-index: 4;
+}
+
+.line-wrapperSignUp {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.75rem 0 0;
+    box-sizing: border-box;
+    min-width: 9.125rem;
+}
+
+.frame-child1SignUp,
+.orSignUp {
+    position: relative;
+    z-index: 4;
+}
+
+.orSignUp {
+    font-size: 1rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #777;
+    text-align: left;
+    display: inline-block;
+    min-width: 1.188rem;
+}
+
+.frame-child1SignUp {
+    align-self: stretch;
+    height: 0.063rem;
+    border-top: 1px solid #777;
+    box-sizing: border-box;
+}
+
+.frame-parent4SignUp,
+.line-containerSignUp {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.line-containerSignUp {
+    flex: 1;
+    flex-direction: column;
+    padding: 0.75rem 0 0;
+    box-sizing: border-box;
+    min-width: 9.125rem;
+}
+
+.frame-parent4SignUp {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.781rem;
+}
+
+.add-to-chrome1SignUp {
+    width: 10.125rem;
+    position: relative;
+    font-size: 1rem;
+    line-height: 2.625rem;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #00dbde;
+    text-align: center;
+    display: inline-block;
+}
+
+.component-31SignUp {
+    cursor: pointer;
+    border: 1px solid #00dbde;
+    padding: 0.688rem 1.25rem 0.688rem 2.938rem;
+    background-color: transparent;
+    align-self: stretch;
+    border-radius: 45px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.component-31SignUp:hover {
+    background-color: rgba(0, 168, 171, 0.09);
+    border: 1px solid #00a8ab;
+    box-sizing: border-box;
+}
+
+.frame-parent3SignUp {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 1.188rem;
+    max-width: 100%;
+}
+
+.frame-formSignUp,
+.frame-wrapper3SignUp {
+    align-self: stretch;
+    justify-content: flex-start;
+    max-width: 100%;
+}
+
+.frame-wrapper3SignUp {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 0.063rem 0 0.094rem;
+    box-sizing: border-box;
+}
+
+.frame-formSignUp {
+    margin: 0;
+    flex-direction: column;
+    gap: 2.438rem;
+}
+
+.frame-formSignUp,
+.frame-groupSignUp,
+.lekhak-writerSignUp {
+    display: flex;
+    align-items: flex-start;
+}
+
+.frame-groupSignUp {
+width: 31.375rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 5.5rem;
+    max-width: 100%;
+}
+
+.lekhak-writerSignUp {
+    width: 100%;
+    position: relative;
+    background-color: #11161e;
+    overflow: hidden;
+    flex-direction: row;
+    justify-content: center;
+    padding: 3.75rem 1.25rem 21.625rem;
+    box-sizing: border-box;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    font-size: 1rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+@media screen and (max-width: 675px) {
+    .frame-formSignUp {
+        gap: 1.188rem;
+    }
+
+    .frame-groupSignUp {
+        gap: 6.75rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .frame-groupSignUp {
+        gap: 3.375rem;
+    }
+}

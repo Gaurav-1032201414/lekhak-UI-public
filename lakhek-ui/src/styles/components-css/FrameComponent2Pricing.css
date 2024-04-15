@@ -1,0 +1,109 @@
+.rectangle-divPricing {
+    align-self: stretch;
+    width: 23.75rem;
+    position: relative;
+    border-radius: 60px;
+    background-color: #0e1117;
+    border: 1px solid #00dbde;
+    box-sizing: border-box;
+    display: none;
+    max-width: 100%;
+}
+
+.annuallyPricing {
+    position: relative;
+        font-size: 1rem;
+            font-family: Poppins;
+            color: #fff;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 4.438rem;
+    z-index: 1;
+}
+
+.annually-wrapperPricing {
+    display: flex;
+    cursor: pointer;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.125rem 0 0;
+    background: transparent !important;
+    border: none;
+}
+
+.frame-child1Pricing {
+    height: 3.75rem;
+    width: 11.875rem;
+    position: relative;
+    border-radius: 60px;
+    background: linear-gradient(90deg, #00dbde, #fc00ff);
+    display: none;
+}
+
+.monthlyPricing {
+    position: relative;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    min-width: 4.063rem;
+    z-index: 1;
+}
+
+.frame-wrapper2Pricing,
+.group-buttonPricing,
+.rectangle-containerPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.group-buttonPricing {
+    cursor: pointer;
+    border: 0;
+    padding: 1.138rem 3.875rem 1.113rem 3.938rem;
+    background-color: transparent;
+    border-radius: 60px;
+    background: linear-gradient(90deg, #00dbde, #fc00ff);
+    justify-content: flex-start;
+    z-index: 7;
+}
+
+.frame-wrapper2Pricing,
+.rectangle-containerPricing {
+    box-sizing: border-box;
+    max-width: 97%;
+}
+
+.rectangle-containerPricing {
+width: 23.1rem;
+    border-radius: 60px;
+    background-color: #0e1117;
+    border: 1px solid #00dbde;
+    justify-content: space-between;
+    padding: 0 0.125rem 0 3.625rem;
+    gap: 1.25rem;
+    z-index: 6;
+}
+
+.frame-wrapper2Pricing {
+    align-self: stretch;
+    justify-content: center;
+    padding: 0 1.25rem;
+    margin-top: -65.375rem;
+    text-align: left;
+    font-size: 1rem;
+    color: #00dbde;
+    font-family: Poppins;
+}
+
+@media screen and (max-width: 450px) {
+    .rectangle-containerPricing {
+        flex-wrap: wrap;
+        padding-left: 1.25rem;
+        box-sizing: border-box;
+    }
+}

@@ -1,0 +1,326 @@
+.assistantPricing,
+.homePricing,
+.lekhakPricing {
+    position: relative;
+    line-height: 2.625rem;
+    display: inline-block;
+    z-index: 1;
+}
+
+.lekhakPricing {
+    margin: 0;
+    width: 8.688rem;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    white-space: nowrap;
+}
+
+.assistantPricing,
+.homePricing {
+    font-weight: 500;
+}
+
+.homePricing {
+    width: 3rem;
+    min-width: 3rem;
+}
+
+.assistantPricing {
+    min-width: 4.688rem;
+}
+
+.writerPricing {
+    width: 3.063rem;
+    min-width: 3.063rem;
+}
+
+.pricing1Pricing,
+.rewardPricing,
+.writerPricing {
+    position: relative;
+    line-height: 2.625rem;
+    font-weight: 500;
+    display: inline-block;
+    z-index: 1;
+}
+
+.rewardPricing {
+    width: 3.875rem;
+    min-width: 3.875rem;
+}
+
+.pricing1Pricing {
+    align-self: stretch;
+    min-width: 3.438rem;
+}
+
+.frame-itemPricing {
+    height: 0.188rem;
+    width: 1.375rem;
+    position: relative;
+    z-index: 2;
+}
+
+.vector-wrapperPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0.125rem;
+    margin-top: -0.437rem;
+}
+
+.home-parentPricing,
+.pricing-parentPricing {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+}
+
+.pricing-parentPricing {
+    width: 3.438rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: #00dbde;
+}
+
+.home-parentPricing {
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.frame-headerPricing,
+.frame-wrapper1Pricing,
+.lekhak-parentPricing {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+}
+
+.frame-wrapper1Pricing {
+    width: 27.813rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0.188rem 0 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+.frame-headerPricing,
+.lekhak-parentPricing {
+    flex-direction: row;
+}
+
+.lekhak-parentPricing {
+    width: 67.75rem;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.frame-headerPricing {
+    height: 2.813rem;
+    justify-content: flex-start;
+    text-align: center;
+    font-size: 2rem;
+    color: #00dbde;
+    font-family: "Katahdin Round";
+}
+
+.boost-up-yourPricing {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 1;
+}
+
+.we-offer-onePricing {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    z-index: 1;
+}
+
+.we-offer-one-of-the-most-cost-wrapperPricing {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 4.313rem;
+    font-size: 1.25rem;
+    color: #aaa;
+}
+
+.boost-up-your-productivity-wit-parentPricing {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+}
+
+.boost-up-your-productivity-wit-parentPricing,
+.frame-divPricing,
+.frame-wrapperPricing {
+    display: flex;
+    justify-content: center;
+        max-width: 88%;
+}
+
+.frame-divPricing {
+    width: 78.438rem;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 5.25rem;
+}
+
+.frame-wrapperPricing {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.frame-innerPricing {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    background-color: #11161e;
+    width: 100%;
+    height: 100%;
+}
+
+.ellipse-iconPricing {
+    position: absolute;
+    top: 2.625rem;
+    left: 113.625rem;
+    border-radius: 50%;
+    width: 3.438rem;
+    height: 3.438rem;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.wrapper-group-2985-childPricing {
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 0.25rem;
+    transform: scale(2.191);
+}
+
+.wrapper-group-2985Pricing {
+    position: absolute;
+    top: 18.25rem;
+    left: 2rem;
+    width: 122.375rem;
+    height: 31.063rem;
+    z-index: 5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rectangle-groupPricing {
+    width: 126.375rem;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    bottom: 0;
+    left: calc(50% - 1011px);
+}
+
+.frame-containerPricing,
+.frame-parent1Pricing {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+}
+
+.frame-parent1Pricing {
+    width: 77.313rem;
+    overflow-x: auto;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 6.28rem;
+    font-size: 0.875rem;
+}
+
+.frame-containerPricing {
+    align-self: stretch;
+    flex-direction: column;
+    align-items: flex-end;
+padding: 3.563rem 10.313rem 8.688rem 6.125rem;
+    box-sizing: border-box;
+    position: relative;
+    gap: 9.438rem;
+    text-align: left;
+    font-size: 2.5rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+@media screen and (max-width: 1200px) {
+    .frame-containerPricing {
+        gap: 4.688rem;
+        padding: 2.313rem 10.625rem 5.625rem 3.063rem;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 825px) {
+    .home-parentPricing {
+        display: none;
+    }
+
+    .frame-wrapper1Pricing {
+        width: 0;
+    }
+
+    .boost-up-yourPricing {
+        font-size: 2rem;
+    }
+
+    .we-offer-one-of-the-most-cost-wrapperPricing {
+        padding-left: 2.125rem;
+        padding-right: 2.125rem;
+        box-sizing: border-box;
+    }
+
+    .frame-divPricing {
+        gap: 2.625rem;
+    }
+
+    .frame-parent1Pricing {
+        gap: 1.625rem;
+    }
+
+    .frame-containerPricing {
+        gap: 2.375rem;
+        padding: 1.5rem 5.313rem 3.625rem 1.5rem;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .boost-up-yourPricing {
+        font-size: 1.5rem;
+    }
+
+    .we-offer-onePricing {
+        font-size: 1rem;
+    }
+
+    .frame-divPricing {
+        gap: 1.313rem;
+    }
+}

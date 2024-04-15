@@ -1,0 +1,271 @@
+.frame-child2Rewards,
+.frame-child3Rewards {
+    position: relative;
+    display: none;
+    max-width: 100%;
+}
+
+.frame-child2Rewards {
+    width: 96.75rem;
+    height: 23.938rem;
+    border-radius: 37px;
+    background-color: #0e1117;
+    border: 1px solid #00dbde;
+    box-sizing: border-box;
+}
+
+.frame-child3Rewards {
+    height: 8.438rem;
+    width: 21.875rem;
+    border-radius: 20px;
+    background-color: #11161e;
+}
+
+.gift-icon1Rewards {
+    width: 3.063rem;
+    height: 3.063rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 4;
+}
+
+.invitesRewards {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 6.188rem;
+    z-index: 1;
+}
+
+.gift-groupRewards {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
+
+.frame-child4Rewards {
+    width: 1.813rem;
+    height: 1.813rem;
+    position: relative;
+    border-radius: 50%;
+    border: 0 solid #777;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+.ellipse-containerRewards,
+.group-divRewards {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.125rem 0 0;
+}
+
+.group-divRewards {
+    align-self: stretch;
+    border-radius: 20px;
+    background-color: #11161e;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1.188rem 1.375rem 1.438rem 1.813rem;
+    box-sizing: border-box;
+    max-width: 100%;
+    gap: 1.25rem;
+    z-index: 3;
+}
+
+.frame-child5Rewards {
+    height: 2.313rem;
+    width: 12.625rem;
+    position: relative;
+    border-radius: 25px;
+    background-color: #9747ff;
+    display: none;
+}
+
+.get-100-free1Rewards {
+    position: relative;
+    font-size: 0.875rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #fff;
+    text-align: left;
+    z-index: 1;
+}
+
+.frame-wrapper1Rewards,
+.group-buttonRewards {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.group-buttonRewards {
+    cursor: pointer;
+    border: 0;
+    padding: 0.563rem 1.813rem 0.438rem 1.875rem;
+    background-color: #9747ff;
+    border-radius: 25px;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 4;
+}
+
+.group-buttonRewards:hover {
+    background-color: #b061ff;
+}
+
+.frame-wrapper1Rewards {
+    justify-content: flex-end;
+    padding: 0 0.688rem;
+    margin-top: -1.187rem;
+}
+
+.frame-parent2Rewards {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    min-width: 16.375rem;
+    max-width: 100%;
+}
+
+.frame-parent1Rewards {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.625rem;
+    max-width: 100%;
+}
+
+.add-to-chromeRewards {
+    width: 17.188rem;
+    position: relative;
+    font-size: 1rem;
+    line-height: 2.625rem;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+}
+
+.component-3Rewards {
+    cursor: pointer;
+    border: 0;
+    padding: 0.688rem 4.375rem;
+    background-color: transparent;
+    border-radius: 45px;
+    background: linear-gradient(85.69deg, #00dbde, #fc00ff);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 3;
+}
+
+.invite-friend-whoRewards {
+    flex: 1;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    z-index: 3;
+}
+
+.component-3-parentRewards,
+.invite-friend-who-also-want-to-wrapperRewards {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.invite-friend-who-also-want-to-wrapperRewards {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0.688rem 0 0.625rem;
+}
+
+.component-3-parentRewards {
+    width: 25.938rem;
+    flex-direction: column;
+    gap: 0.75rem;
+    max-width: 100%;
+}
+
+.component-instanceRewards {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 0.438rem 0 0;
+    text-align: center;
+    font-size: 0.75rem;
+    color: #777;
+}
+
+.component-instanceRewards,
+.frame-divRewards,
+.rectangle-parent1Rewards {
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.rectangle-parent1Rewards {
+    width: 96.75rem;
+    border-radius: 37px;
+    background-color: #0e1117;
+    border: 1px solid #00dbde;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 2.438rem 2rem 2rem 2.25rem;
+    gap: 4.063rem;
+    z-index: 2;
+}
+
+.frame-divRewards {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 1.25rem 0 1.5rem;
+    text-align: left;
+    font-size: 1.5rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+@media screen and (max-width: 850px) {
+    .rectangle-parent1Rewards {
+        gap: 2rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .invitesRewards {
+        font-size: 1.188rem;
+    }
+
+    .component-3Rewards {
+        padding-left: 1.25rem;
+        padding-right: 1.25rem;
+        box-sizing: border-box;
+    }
+
+    .rectangle-parent1Rewards {
+        gap: 1rem;
+    }
+}

@@ -1,0 +1,474 @@
+.homeRewards,
+.lekhakRewards {
+    position: relative;
+    z-index: 1;
+}
+
+.lekhakRewards {
+    margin: 0;
+    width: 8.688rem;
+    font-size: inherit;
+    line-height: 2.625rem;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.homeRewards {
+    width: 3rem;
+    min-width: 3rem;
+}
+
+.assistantRewards,
+.homeRewards,
+.writerRewards {
+    line-height: 2.625rem;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.assistantRewards {
+    position: relative;
+    min-width: 4.688rem;
+    z-index: 1;
+}
+
+.writerRewards {
+    width: 3.063rem;
+    min-width: 3.063rem;
+}
+
+.frame-childRewards,
+.rewardRewards,
+.writerRewards {
+    position: relative;
+    z-index: 1;
+}
+
+.rewardRewards {
+    align-self: stretch;
+    line-height: 2.625rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3.875rem;
+}
+
+.frame-childRewards {
+    height: 0.188rem;
+    width: 1.375rem;
+}
+
+.reward-parentRewards,
+.vector-wrapperRewards {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.vector-wrapperRewards {
+    flex-direction: row;
+    padding: 0 0.125rem;
+    margin-top: -0.437rem;
+}
+
+.reward-parentRewards {
+    align-self: stretch;
+    width: 3.875rem;
+    flex-direction: column;
+    color: #00dbde;
+}
+
+.pricingRewards {
+    width: 3.438rem;
+    position: relative;
+    line-height: 2.625rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3.438rem;
+    z-index: 1;
+}
+
+.home-assistant-writer-pricingRewards {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.home-assistant-writer-pricing-wrapperRewards {
+    align-self: stretch;
+    width: 27.813rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.188rem 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+    font-size: 1rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+.lekhak-parentRewards {
+    width: 67.75rem;
+    height: 2.813rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1.25rem;
+    max-width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    color: #00dbde;
+    font-family: "Katahdin Round";
+}
+
+.invite-to-earnRewards {
+        left: -3.5rem;
+            font-size: 3rem;
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+}
+
+.free-queriesRewards {
+    color: #00dbde;
+}
+
+.get-100-free-containerRewards {
+        left: -3.5rem;
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: inherit;
+    z-index: 2;
+}
+
+.get-100-free-queries-for-each-wrapperRewards {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 0.188rem;
+    margin-top: -0.437rem;
+    font-size: 2.25rem;
+}
+
+.invite-to-earn-parentRewards {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+}
+
+.invite-as-muchRewards {
+    left: 2.05rem;
+        padding-bottom: 0.2rem;
+    margin: 0 !important;
+    position: absolute;
+    right: 6.563rem;
+    bottom: 4.938rem;
+    font-size: 2.25rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: inherit;
+    z-index: 3;
+}
+
+.max-invites-labelRewards {
+    width: 50.875rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 1.25rem 8.313rem;
+    box-sizing: border-box;
+    position: relative;
+    max-width: 100%;
+}
+
+.frame-itemRewards {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    background-color: #11161e;
+    width: 100%;
+    height: 100%;
+}
+
+.frame-innerRewards {
+    position: absolute;
+    top: 2.625rem;
+    left: 113.625rem;
+    border-radius: 50%;
+    width: 3.438rem;
+    height: 3.438rem;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.wrapper-group-2985-childRewards {
+    height: 100%;
+    flex: 1;
+    max-width: 100%;
+    overflow: hidden;
+    z-index: 1;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 0.25rem;
+    width: 100%;
+    transform: scale(2.191);
+}
+
+.wrapper-group-2985Rewards {
+    height: 31.063rem;
+    flex: 1;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.and-get-unlimitedRewards {
+    font-size: 2.2rem !important;
+    margin: 0 !important;
+    position: absolute;
+    top: 5.063rem;
+    left: 21.75rem;
+    font-size: inherit;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 2;
+}
+
+.wrapper-group-2985-parentRewards {
+    position: absolute;
+    top: 18.25rem;
+    left: 2rem;
+    width: 122.375rem;
+    height: 31.063rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+}
+
+.frame-iconRewards {
+    position: absolute;
+    top: 12.75rem;
+        left: 79.313rem;
+        width: 24.125rem;
+        height: 19.75rem;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 2;
+}
+
+.frame-groupRewards,
+.rectangle-parentRewards {
+    position: absolute;
+    top: 0;
+    height: 100%;
+}
+
+.rectangle-parentRewards {
+    width: 126.375rem;
+    margin: 0 !important;
+    bottom: 0;
+    left: calc(50% - 1011px);
+    font-size: 2.5rem;
+    color: #00dbde;
+}
+
+.frame-groupRewards {
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 3.563rem 6.125rem 8.188rem;
+    box-sizing: border-box;
+    gap: 6.625rem;
+    max-width: 100%;
+}
+
+.copy-the-inviteRewards {
+    width: 9.75rem;
+    position: relative;
+    font-size: 1rem;
+    line-height: 2.625rem;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+}
+
+.copy-link-labelRewards {
+    left: 7.5rem !important;
+    cursor: pointer;
+    border: 1px solid #00dbde;
+    padding: 0.625rem 2.438rem;
+    background-color: transparent;
+    position: absolute;
+    top: 30.063rem;
+    left: 11.75rem;
+    border-radius: 61px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 2;
+}
+
+.copy-link-labelRewards:hover {
+    background-color: rgba(0, 168, 171, 0.09);
+    border: 1px solid #00a8ab;
+    box-sizing: border-box;
+}
+
+.frame-parentRewards {
+    align-self: stretch;
+    height: 67.5rem;
+    position: relative;
+    max-width: 100%;
+    text-align: left;
+    font-size: 3rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+.contact-usRewards {
+    color: #00dbde;
+}
+
+.nemo-enim-ipsam-containerRewards {
+    width: 62.813rem;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    flex-shrink: 0;
+    max-width: 100%;
+}
+
+.nemo-enim-ipsam-voluptatem-qui-wrapperRewards {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 1.25rem 0 1.313rem;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.rewardsRewards {
+    width: 100%;
+    position: relative;
+    background-color: #0e1117;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0 0 6.563rem;
+    box-sizing: border-box;
+    gap: 3.938rem;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    font-size: 1rem;
+    color: #aaa;
+    font-family: Poppins;
+}
+
+@media screen and (max-width: 1500px) {
+    .frame-parentRewards {
+        height: auto;
+        min-height: 1080;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .frame-groupRewards {
+        gap: 3.313rem;
+        padding-left: 3.063rem;
+        padding-right: 3.063rem;
+        box-sizing: border-box;
+    }
+
+    .rewardsRewards {
+        gap: 1.938rem;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .home-assistant-writer-pricingRewards {
+        display: none;
+    }
+
+    .home-assistant-writer-pricing-wrapperRewards {
+        width: 0;
+    }
+
+    .invite-to-earnRewards {
+        font-size: 2.375rem;
+    }
+
+    .get-100-free-containerRewards,
+    .invite-as-muchRewards {
+        font-size: 1.813rem;
+    }
+
+    .and-get-unlimitedRewards {
+        font-size: 2rem;
+    }
+
+    .frame-groupRewards {
+        gap: 1.625rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        box-sizing: border-box;
+    }
+
+    .rewardsRewards {
+        gap: 1rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .invite-to-earnRewards {
+        font-size: 1.813rem;
+    }
+
+    .get-100-free-containerRewards,
+    .invite-as-muchRewards {
+        font-size: 1.375rem;
+    }
+
+    .and-get-unlimitedRewards {
+        font-size: 1.5rem;
+    }
+}

@@ -1,0 +1,293 @@
+.pricing-childPricing {
+    width: 3.563rem;
+    height: 4.125rem;
+    position: absolute;
+    margin: 0 !important;
+    top: 27.188rem;
+        right: 40.5rem;
+    border-radius: 4px;
+    z-index: 2;
+}
+
+.divPricing {
+    width: 2.25rem;
+    height: 0.813rem;
+    top: 28.938rem;
+    right: 50.813rem;
+    line-height: 0.375rem;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 2.25rem;
+    z-index: 3;
+}
+
+.divPricing,
+.pricing-innerPricing,
+.pricing-itemPricing,
+.savePricing {
+    position: absolute;
+    margin: 0 !important;
+}
+
+.savePricing {
+    width: 2.125rem;
+    height: 0.875rem;
+    top: 28.063rem;
+    right: 50.938rem;
+    font-size: 0.875rem;
+    line-height: 0.375rem;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 2.125rem;
+    z-index: 3;
+}
+
+.pricing-innerPricing,
+.pricing-itemPricing {
+    width: 3.563rem;
+    height: 4.125rem;
+    top: 27.188rem;
+    border-radius: 4px;
+    z-index: 2;
+}
+
+.pricing-itemPricing {
+        right: 12.563rem;
+}
+
+.pricing-innerPricing {
+    left: 23rem;
+}
+
+.div1Pricing {
+    width: 2.25rem;
+    height: 0.813rem;
+    top: 28.938rem;
+    right: 24.125rem;
+    min-width: 2.25rem;
+    z-index: 3;
+}
+
+.div1Pricing,
+.div2Pricing,
+.save1Pricing,
+.save2Pricing {
+    position: absolute;
+    margin: 0 !important;
+    line-height: 0.375rem;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.div2Pricing {
+    width: 2.25rem;
+    height: 0.813rem;
+    top: 28.938rem;
+    left: 39.75rem;
+    min-width: 2.25rem;
+    z-index: 3;
+}
+
+.save1Pricing,
+.save2Pricing {
+    width: 2.125rem;
+    height: 0.875rem;
+    top: 28.063rem;
+    font-size: 0.875rem;
+    min-width: 2.125rem;
+    z-index: 4;
+}
+
+.save1Pricing {
+    right: 24.25rem;
+}
+
+.save2Pricing {
+    left: 39.75rem;
+}
+
+.frame-parentPricing {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    min-height: 84.5rem;
+    max-width: 100%;
+}
+
+.div3Pricing {
+    top: 33.188rem;
+        right: 18rem;
+    min-width: 6.125rem;
+}
+
+.div3Pricing,
+.div4Pricing,
+.div5Pricing {
+    height: 4.188rem;
+    position: absolute;
+    margin: 0 !important;
+    font-size: 2.5rem;
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+    font-weight: 600;
+    text-align: left;
+    display: inline-block;
+    white-space: nowrap;
+    z-index: 6;
+}
+
+.div4Pricing {
+        top: 33.188rem;
+        left: 15.125rem;
+    min-width: 6.125rem;
+}
+
+.div5Pricing {
+        top: 33.188rem;
+    right: 45.75rem;
+    min-width: 6.25rem;
+}
+
+.monthsPricing {
+    top: 36.375rem;
+    right: 45.735rem;
+    min-width: 6.625rem;
+}
+
+.monthsPricing,
+.months1Pricing,
+.months2Pricing {
+    height: 2.75rem;
+    position: absolute;
+    margin: 0 !important;
+    font-size: 1.5rem;
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+    font-weight: 500;
+    text-align: left;
+    display: inline-block;
+    z-index: 7;
+}
+
+.months1Pricing {
+    top: 36.75rem;
+        right: 17.85rem;
+    min-width: 6.625rem;
+}
+
+.months2Pricing {
+    top: 36.75rem;
+    left: 14.55rem;
+    min-width: 6.875rem;
+}
+
+.difference-between-lekhakPricing {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+}
+
+.difference-between-lekhak-ch-wrapperPricing {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 1.25rem 0 1.313rem;
+}
+
+.frame-groupPricing {
+    width: 96.75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6.938rem;
+    max-width: 100%;
+}
+
+.frame-sectionPricing,
+.pricingPricing {
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.frame-sectionPricing {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 1.25rem;
+    max-width: 100%;
+    text-align: left;
+    font-size: 2.5rem;
+    font-family: Poppins;
+}
+
+.pricingPricing {
+    width: 100%;
+    position: relative;
+    background-color: #0e1117;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 8.063rem;
+    gap: 5.438rem;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    font-size: 0.938rem;
+    font-family: "General Sans";
+}
+
+@media screen and (max-width: 1200px) {
+    .pricingPricing {
+        gap: 2.688rem;
+    }
+}
+
+@media screen and (max-width: 825px) {
+
+    .difference-between-lekhakPricing,
+    .div3Pricing,
+    .div4Pricing,
+    .div5Pricing {
+        font-size: 2rem;
+    }
+
+    .frame-groupPricing {
+        gap: 3.438rem;
+    }
+
+    .pricingPricing {
+        gap: 1.375rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+
+    .div3Pricing,
+    .div4Pricing,
+    .div5Pricing {
+        font-size: 1.5rem;
+    }
+
+    .monthsPricing,
+    .months1Pricing,
+    .months2Pricing {
+        font-size: 1.188rem;
+    }
+
+    .difference-between-lekhakPricing {
+        font-size: 1.5rem;
+    }
+
+    .frame-groupPricing {
+        gap: 1.75rem;
+    }
+}

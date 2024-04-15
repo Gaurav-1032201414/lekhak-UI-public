@@ -1,0 +1,50 @@
+.chrome-icon2 {
+  width: 1.813rem;
+  height: 1.813rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.chrome-wrapper {
+  height: 2.219rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.406rem 0 0;
+  box-sizing: border-box;
+}
+.add-to-chrome2 {
+  flex: 1;
+  position: relative;
+  font-size: 1rem;
+  line-height: 2.625rem;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+}
+.frame-parent12,
+.frame-wrapper6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0.625rem 2.5rem;
+  background-color: #7a71ee;
+  width: 19.75rem;
+  border-radius: 45px;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  gap: 0.625rem;
+  z-index: 2;
+}
+.frame-wrapper6 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 1.25rem 0 1.313rem;
+}

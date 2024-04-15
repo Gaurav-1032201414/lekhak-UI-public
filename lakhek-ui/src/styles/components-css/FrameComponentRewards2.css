@@ -1,0 +1,149 @@
+.rectangle-divRewards {
+    height: 8.438rem;
+    width: 21.875rem;
+    position: relative;
+    border-radius: 20px;
+    background-color: #11161e;
+    display: none;
+    max-width: 100%;
+}
+
+.gift-iconRewards,
+.inviteRewards {
+    position: relative;
+    z-index: 4;
+}
+
+.gift-iconRewards {
+    width: 3.063rem;
+    height: 3.063rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.inviteRewards {
+    margin: 0;
+    font-size: inherit;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 5.063rem;
+}
+
+.gift-parentRewards,
+.invite-wrapperRewards {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.invite-wrapperRewards {
+    flex-direction: row;
+    padding: 0 0 0 0.25rem;
+}
+
+.gift-parentRewards {
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.ellipse-divRewards {
+    width: 1.813rem;
+    height: 1.813rem;
+    position: relative;
+    border-radius: 50%;
+    border: 0 solid #777;
+    box-sizing: border-box;
+    z-index: 4;
+}
+
+.ellipse-wrapperRewards,
+.rectangle-groupRewards {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.125rem 0 0;
+}
+
+.rectangle-groupRewards {
+    align-self: stretch;
+    border-radius: 20px;
+    background-color: #11161e;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1.188rem 1.438rem 1.438rem 1.563rem;
+    box-sizing: border-box;
+    max-width: 100%;
+    gap: 1.25rem;
+    z-index: 3;
+}
+
+.frame-child1Rewards {
+    height: 2.313rem;
+    width: 12.625rem;
+    position: relative;
+    border-radius: 25px;
+    background-color: #9747ff;
+    display: none;
+}
+
+.get-100-freeRewards {
+    position: relative;
+    font-size: 0.875rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #fff;
+    text-align: left;
+    z-index: 1;
+}
+
+.frame-wrapperRewards,
+.rectangle-containerRewards {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.rectangle-containerRewards {
+    cursor: pointer;
+    border: 0;
+    padding: 0.563rem 1.813rem 0.438rem 1.875rem;
+    background-color: #9747ff;
+    border-radius: 25px;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 4;
+}
+
+.rectangle-containerRewards:hover {
+    background-color: #b061ff;
+}
+
+.frame-wrapperRewards {
+    justify-content: flex-end;
+    padding: 0 1rem;
+    margin-top: -1.187rem;
+}
+
+.frame-containerRewards {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    min-width: 16.375rem;
+    max-width: 100%;
+    text-align: left;
+    font-size: 1.5rem;
+    color: #fff;
+    font-family: Poppins;
+}
+
+@media screen and (max-width: 450px) {
+    .inviteRewards {
+        font-size: 1.188rem;
+    }
+}

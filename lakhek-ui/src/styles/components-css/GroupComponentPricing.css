@@ -1,0 +1,381 @@
+.rectangle-divPrice12 {
+    width: 96.75rem;
+    height: 34.125rem;
+    position: relative;
+    border-radius: 20px;
+    background-color: #11161e;
+    display: none;
+    max-width: 100%;
+}
+
+.lekhakPrice12 {
+    margin: 0;
+    width: 8.688rem;
+    position: relative;
+    font-size: inherit;
+    line-height: 2.625rem;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    z-index: 1;
+}
+
+.lekhak-wrapperPrice12 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0.25rem;
+}
+
+.guis-nostrud-exercitationPrice12 {
+    align-self: stretch;
+    height: 9.563rem;
+    position: relative;
+    font-size: 1rem;
+    letter-spacing: 0.02em;
+    line-height: 1.75rem;
+    font-family: Poppins;
+    text-align: left;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+}
+
+.frame-parent2Price12 {
+    padding-left: 3rem;
+    width: 31.563rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1.75rem;
+    min-width: 31.563rem;
+    max-width: 100%;
+}
+
+.pricingPrice12 {
+    position: relative;
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 4.5rem;
+    z-index: 1;
+}
+
+.pricing-wrapperPrice12 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0.125rem;
+}
+
+.support-usPrice12 {
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 1.563rem;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 7.438rem;
+    z-index: 1;
+}
+
+.input-filterPrice12 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0.438rem;
+}
+
+.contact-us2Price12 {
+    height: 1.563rem;
+    position: relative;
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+    min-width: 7.438rem;
+    z-index: 1;
+}
+
+.frame-parent4Price12 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1.438rem 0 0;
+    gap: 0.75rem;
+}
+
+.careerPrice12,
+.our-teamPrice12,
+.privacy-policyPrice12 {
+    position: relative;
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+    font-weight: 600;
+    z-index: 1;
+}
+
+.careerPrice12,
+.our-teamPrice12 {
+    display: inline-block;
+}
+
+.our-teamPrice12 {
+    min-width: 6.375rem;
+}
+
+.careerPrice12 {
+    width: 5.375rem;
+    height: 1.563rem;
+    flex-shrink: 0;
+}
+
+.nested-loopsPrice12 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.813rem;
+}
+
+.terms-of-servicesPrice12 {
+    height: 1.563rem;
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 1.9rem;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: inline-block;
+    z-index: 1;
+}
+
+.frame-parent3Price12 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.frame-parent1Price12,
+.frame-wrapper1Price12 {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+}
+
+.frame-wrapper1Price12 {
+    width: 37.938rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0.25rem 0 0;
+    box-sizing: border-box;
+    min-width: 37.938rem;
+    text-align: left;
+    font-size: 1.25rem;
+    font-family: Poppins;
+}
+
+.frame-parent1Price12 {
+    width: 81rem;
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.compare-operatorsPrice12 {
+    width: 78.5rem;
+    left: 3rem;
+    align-self: stretch;
+    height: 0.063rem;
+    position: relative;
+    border-top: 1px solid #fff;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+.frame-containerPrice12 {
+    width: 86.625rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 3rem;
+    max-width: 100%;
+}
+
+.flow-controllers-iconPrice12 {
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+}
+
+.joiners-iconPrice12 {
+    height: 2.063rem;
+    width: 2.063rem;
+    position: absolute;
+    margin: 0 !important;
+    top: 8.48%;
+    right: 8.18%;
+    bottom: 8.79%;
+    left: 8.48%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    z-index: 1;
+}
+
+.facebook-circle-fill-1Price12,
+.instagram-fill-1-iconPrice12,
+.twitter-fill-1-iconPrice12 {
+    height: 2.063rem;
+    width: 2.063rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 1;
+}
+
+.facebook-circle-fill-1Price12 {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1.313rem;
+}
+
+.instagram-fill-1-iconPrice12,
+.twitter-fill-1-iconPrice12 {
+    min-height: 2.063rem;
+}
+
+.control-flow-statementsPrice12,
+.input-fieldsPrice12 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.input-fieldsPrice12 {
+    height: 2.063rem;
+    flex: 1;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.control-flow-statementsPrice12 {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 4.875rem;
+}
+
+.embrace-inc-Price12 {
+    align-self: stretch;
+    height: 1.563rem;
+    position: relative;
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+}
+
+.logical-operatorsPrice12 {
+    width: 18.875rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.625rem;
+}
+
+.assignment-operatorsPrice12,
+.rectangle-containerPrice12 {
+    width: 86.625rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 100%;
+    text-align: left;
+    font-size: 1rem;
+    font-family: "General Sans";
+}
+
+.rectangle-containerPrice12 {
+    /* position: absolute; */
+    top: 443.688rem;
+    left: calc(50% - 709px);
+    border-radius: 20px;
+    background-color: #11161e;
+        width: 91.50rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6.5rem 1.25rem 4.125rem;
+    box-sizing: border-box;
+    gap: 2.25rem;
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    font-family: "Katahdin Round";
+}
+
+@media screen and (max-width: 1200px) {
+
+    .frame-parent2Price12,
+    .frame-wrapper1Price12 {
+        flex: 1;
+    }
+
+    .frame-parent1Price12 {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 825px) {
+    .lekhakPrice12 {
+        font-size: 1.625rem;
+        line-height: 2.125rem;
+    }
+
+    .frame-parent2Price12 {
+        min-width: 100%;
+    }
+
+    .frame-parent3Price12 {
+        flex-wrap: wrap;
+    }
+
+    .frame-wrapper1Price12 {
+        min-width: 100%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .lekhakPrice12 {
+        font-size: 1.188rem;
+        line-height: 1.563rem;
+    }
+
+    .careerPrice12,
+    .contact-us2Price12,
+    .our-teamPrice12,
+    .pricingPrice12,
+    .privacy-policyPrice12,
+    .support-usPrice12,
+    .terms-of-servicesPrice12 {
+        font-size: 1rem;
+    }
+}

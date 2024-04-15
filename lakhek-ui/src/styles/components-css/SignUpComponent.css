@@ -1,0 +1,99 @@
+.frame-child2SignUp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    background-color: #0e1117;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.sign-up-toSignUp {
+    margin: 0;
+    position: absolute;
+top: 2.638rem;
+        left: 8.188rem;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 1;
+}
+
+.add-to-chrome2SignUp {
+    width: 11.5rem;
+    position: relative;
+    line-height: 2.625rem;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.component-32SignUp {
+    position: absolute;
+        top: 0;
+        left: -36px;
+        border-radius: 45px;
+        border: 1px solid #00dbde;
+        box-sizing: border-box;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 0.688rem 1.25rem 0.688rem 3.563rem;
+        max-width: 100%;
+        height: 100%;
+        z-index: 4;
+}
+
+.facebook-iconSignUp {
+    position: absolute;
+    top: 1.25rem;
+    left: 9rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    overflow: hidden;
+    z-index: 5;
+}
+
+.component-3-parentSignUp,
+.group-divSignUp {
+    position: absolute;
+    max-width: 100%;
+}
+
+.component-3-parentSignUp {
+    top: 34.25rem;
+    left: 7rem;
+    width: 31.313rem;
+    height: 4rem;
+    text-align: center;
+    font-size: 1rem;
+    color: #00dbde;
+}
+
+.group-divSignUp {
+        height: 94%;
+        top: -66px;
+        bottom: 0px;
+        left: 27.175rem;
+        border-radius: 20px;
+        background-color: #0e1117;
+        width: 40.25rem;
+        text-align: left;
+        font-size: 2rem;
+        color: #fff;
+        font-family: Poppins;
+}
+
+@media screen and (max-width: 750px) {
+    .sign-up-toSignUp {
+        font-size: 1.625rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .sign-up-toSignUp {
+        font-size: 1.188rem;
+    }
+}
